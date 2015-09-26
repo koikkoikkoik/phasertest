@@ -1,2 +1,2 @@
 # phasertest
-playing around with phaser,js
+playing around with phaser.js
